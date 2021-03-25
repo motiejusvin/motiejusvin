@@ -2,6 +2,6 @@
     
     In short, i'm a 14 y.o. "Developer" from Lithuania, who likes coding things for fun. I have ~1.5years of experience in C# and ~1year of experience in C.
 ### Languages
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motiesjuvin)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motiejusvin)](https://github.com/anuraghazra/github-readme-stats)
   
   Totaly not ripped off of random website

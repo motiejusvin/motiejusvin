@@ -5,6 +5,8 @@
 ### Languages
   C# And C for main
   Python and PHP as side
+  
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motiejusvin&theme=tokyonight)
 
   //Totaly not ripped off of a random website

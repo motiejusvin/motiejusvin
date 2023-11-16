@@ -1,6 +1,6 @@
 ### Heyy
     
-  Heyyy, i'm Motiejus, a 15 y.o. "Developer" from Lithuania, who likes coding stuff for fun. I like open-source projects, i suck at them tho.
+  Heyyy, i'm Motiejus, a 17 y.o. "Developer" from Lithuania, who likes coding stuff for fun. I like open-source projects, i suck at them tho.
 
 ### Languages
   C# And C for main
@@ -16,4 +16,3 @@
    
    Something else
 ### Contacts (Like i have them)
-   Discord: motiejusvin#9800

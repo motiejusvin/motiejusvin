@@ -12,7 +12,4 @@
 
   //Totaly not ripped off of a random website
 ### Projects that i'm working on
-   A lithuanian programming language
-   
-   Something else
 ### Contacts (Like i have them)
